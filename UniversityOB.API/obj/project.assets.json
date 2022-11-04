@@ -9637,11 +9637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\OpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
+      "projectUniqueName": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
       "projectName": "UniversityOB.API",
-      "projectPath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\OpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
+      "projectPath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
       "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\OpenBootCamp\\UniversityOB.API\\UniversityOB.API\\obj\\",
+      "outputPath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\UniversityOB.API\\UniversityOB.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",

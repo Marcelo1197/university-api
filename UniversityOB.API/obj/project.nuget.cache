@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JkzBSeV6wT83lesz2lY4ttR2BXrgkIqY0h/4tx0p86FWW1QXDW3ig36vudta4DYlMsw8ocTPrlyw34s65jyIw==",
+  "dgSpecHash": "JKnO4ia2/iSLwpQldFO3Al+I4ZqYKeD6HFli7hv/90JQUMh2weJgCe/DxyHM9FnvLgFvPdYqEmcq9wwnrhluiA==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\OpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
+  "projectFilePath": "C:\\Proyectos\\backend\\ApiOpenBootCamp\\UniversityOB.API\\UniversityOB.API\\UniversityOB.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcelo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Marcelo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
