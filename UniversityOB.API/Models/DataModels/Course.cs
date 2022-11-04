@@ -13,8 +13,9 @@ namespace UniversityOB.API.Models.DataModels
     {
         [Required]
         [StringLength(100)]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
+        [Required]
         [MaxLength(280)]
         public string ShortDescription { get; set; } = string.Empty;
 
