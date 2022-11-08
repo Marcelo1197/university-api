@@ -28,5 +28,14 @@ namespace UniversityOB.API.Models.DataModels
         public string Requisites { get; set; } = string.Empty;
 
         public CourseLevel Level { get; set; } = CourseLevel.Basic;
+
+        [Required]
+        public Chapter Chapter { get; set; } = new Chapter();
+
+        [Required]
+        public ICollection<Category> Categories { get; set; } = new List<Category>();
+
+        [Required]
+        public ICollection<Student> Students { get; set; } = new List<Student>();   
     }
 }
